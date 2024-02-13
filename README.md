@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me : E-mail:rabinstar137@gmail.com
--                       Insta:@the.rabin_
+-                      
 - 😄 Pronouns: he/him
 
 
