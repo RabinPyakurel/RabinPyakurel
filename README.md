@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Spring-Boot.
 - 💞️ I’m looking to collaborate on website development.
-- 📫 How to reach me : E-mail:rabinstar137@gmail.com
--                      
+- 📫 How to reach me : E-mail:rabinstar137@gmail.com                  
 - 😄 Pronouns: he/him
 
 
